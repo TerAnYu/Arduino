@@ -1,2 +1,2 @@
 # Arduino
- 	teensy_em-marine.ino - http://www.pagemac.com/projects/rfid/arduino_wiegand
+teensy_em-marine.ino - http://www.pagemac.com/projects/rfid/arduino_wiegand - Wiegand reader
